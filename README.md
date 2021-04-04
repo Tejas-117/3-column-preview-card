@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://github.com/Tejas-117/3-column-preview-card)
 - [Live Site URL](https://tejas-117.github.io/3-column-preview-card/)
 
 ## My process
